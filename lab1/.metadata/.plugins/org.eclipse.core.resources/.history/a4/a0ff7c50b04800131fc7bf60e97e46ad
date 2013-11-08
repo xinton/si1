@@ -1,0 +1,12 @@
+package lab01;
+
+public class Sistema {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		private Escritor as;
+	}
+
+}

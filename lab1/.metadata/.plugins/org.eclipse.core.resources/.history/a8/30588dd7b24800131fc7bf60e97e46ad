@@ -1,0 +1,15 @@
+package lab01;
+import java.util.Scanner;
+public class Sistema {
+
+	/**
+	 * @param args
+	 */
+		private static Escritor wter;
+	public static void main(String[] args) {
+		Scanner entrada = new Scanner(System.in);
+		System.out.println("Informe um número");
+		entrada.next();
+	}
+
+}

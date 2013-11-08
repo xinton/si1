@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testrun name="TesteEscritor" project="RodrigoFariasdeMacedo" tests="8" started="8" failures="0" errors="0" ignored="0">
+  <testsuite name="lab01.TesteEscritor" time="0.017">
+    <testcase name="simplestCase" classname="lab01.TesteEscritor" time="0.019"/>
+    <testcase name="oneWordNumber" classname="lab01.TesteEscritor" time="0.0"/>
+    <testcase name="emptyString" classname="lab01.TesteEscritor" time="0.0"/>
+    <testcase name="wrongInput" classname="lab01.TesteEscritor" time="0.0"/>
+    <testcase name="numberBetween21and99" classname="lab01.TesteEscritor" time="0.0"/>
+    <testcase name="numberBetween100and999" classname="lab01.TesteEscritor" time="0.0"/>
+    <testcase name="numberBetween1000and1999" classname="lab01.TesteEscritor" time="0.0"/>
+    <testcase name="numberBetween2000and1000000000" classname="lab01.TesteEscritor" time="0.0"/>
+  </testsuite>
+</testrun>

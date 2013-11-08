@@ -1,0 +1,14 @@
+package lab01;
+import java.util.Scanner;
+public class Sistema {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		public static Escritor wter;
+		Scanner entrada = new Scanner(System.in);
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testrun name="TesteEscritor.numberBetween2000and1000000000" project="RodrigoFariasdeMacedo" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testcase name="numberBetween2000and1000000000" classname="lab01.TesteEscritor" incomplete="true"/>
+</testrun>
