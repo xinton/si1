@@ -17,6 +17,12 @@ public class Task extends Model {
   @Constraints.Required
   public String label;
   
+  @Constraints.Required
+  public String project;
+  
+  @Constraints.Required
+  public String priority;
+  
   public boolean done;
   
   @Formats.DateTime(pattern="dd/MM/yyyy")
