@@ -1,0 +1,37 @@
+html{
+	background: #000066;
+	 text-align: center;
+	}
+
+body {
+    font-family: Helvetica, Times New Roman;
+    font-weight: lighter;
+    text-align: center;
+}
+
+h1 {
+    color: #d2691e;
+    text-align: center
+   
+   
+}
+h2{
+    color: #ff8c00;
+    text-align: center
+    
+}
+
+h3{
+	    color: #ffff00;
+	    text-align: center
+	}
+
+h4 {
+    color: #ff8c00;
+    text-align: center
+    
+}
+p {
+    color: #CCCC00;
+}
+
